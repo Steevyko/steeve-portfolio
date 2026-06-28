@@ -9,7 +9,7 @@ export function Navbar() {
     <nav className="navbar navbar-expand-lg bg-white border-bottom sticky-top">
       <div className="container navContainer">
         <a className="navbar-brand fw-bold" href="#">
-          Steeve Jocelyn
+         
         </a>
 
         <button

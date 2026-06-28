@@ -2,7 +2,7 @@ export function Hero() {
   return (
     <section className="hero container">
       <div className="row align-items-center gy-5">
-        <div className="col-lg-7 text-center text-lg-start">
+        <div className="col text-center text-lg-start center">
           <h1 className="heroTitle">
             Steeve Jocelyn
           </h1>
@@ -15,10 +15,14 @@ export function Hero() {
             <span className="badge text-bg-primary px-3 py-2">
               AWS Certified Cloud Practitioner
             </span>
-
+             <span className="badge text-bg-primary px-3 py-2">
+             AWS Cloud Technical Essentials
+            </span>
             <span className="badge text-bg-dark px-3 py-2">
               Associate of Science in Web Technologies
             </span>
+
+            
           </div>
 
           <p className="heroText">
@@ -47,15 +51,7 @@ export function Hero() {
           </div>
         </div>
 
-        <div className="col-lg-5 text-center">
-          <div className="profileWrapper">
-            <img
-              src="/7RV02114.JPG"
-              alt="Steeve Jocelyn"
-              className="profileImage"
-            />
-          </div>
-        </div>
+       
       </div>
     </section>
   );

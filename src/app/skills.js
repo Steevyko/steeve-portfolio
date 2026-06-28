@@ -31,6 +31,8 @@ export function Skills() {
               <li>REST APIs</li>
               <li>JWT Authentication</li>
               <li>File Upload Systems</li>
+              <li>Redis (caching)</li>
+              <li>BullMQ (queue management)</li>
             </ul>
           </div>
         </div>
