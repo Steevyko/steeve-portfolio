@@ -52,7 +52,7 @@ export function Navbar() {
             <li className="nav-item ms-lg-3">
              <a
   className="btn btn-dark"
-  href="/resume.pdf"
+  href="/resume.docx"
   target="_blank"
   rel="noopener noreferrer"
 >
